@@ -2,9 +2,9 @@
 
 **Integrantes:**
 
-- NOME COMPLETO DO INTEGRANTE 1
-- NOME COMPLETO DO INTEGRANTE 2
-- NOME COMPLETO DO INTEGRANTE 3
+- Lucas de Pinho Ribeiro dos Santos
+- João Pedro Ferreira da Rocha
+- Jefferson Santana Nogueira
 
 ## Como executar
 
